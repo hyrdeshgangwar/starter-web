@@ -1,3 +1,4 @@
 *.tmp
 name.hg
 log
+*.orig
