@@ -14,3 +14,4 @@
 
     PERL, PYTHON
     jQuery, Modernizr
+    Git
